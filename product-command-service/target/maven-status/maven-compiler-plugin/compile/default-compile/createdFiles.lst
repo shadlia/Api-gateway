@@ -1,0 +1,6 @@
+com\example\ProductCommandServiceApplication.class
+com\example\entity\Product.class
+com\example\dto\ProductEvent.class
+com\example\repository\ProductRepository.class
+com\example\controller\ProductCommandController.class
+com\example\service\ProductCommandService.class

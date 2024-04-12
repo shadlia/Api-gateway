@@ -1,0 +1,6 @@
+com\example\ProductQueryServiceApplication.class
+com\example\entity\Product.class
+com\example\service\ProductQueryService.class
+com\example\dto\ProductEvent.class
+com\example\repository\ProductRepository.class
+com\example\controller\ProductQueryController.class
